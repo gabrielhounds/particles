@@ -1,0 +1,26 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 285 285" style="enable-background:new 0 0 285 285;" xml:space="preserve">
+
+<g id="Layer_1">
+<radialGradient id="SVGID_1_" cx="142.521" cy="142.5222" r="142.5216" gradientUnits="userSpaceOnUse">
+<stop  offset="0.5824" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+<stop  offset="0.6666" style="stop-color:#F8FBFD;stop-opacity:0.6008"/>
+<stop  offset="0.7518" style="stop-color:#EBF3FA;stop-opacity:0.7028"/>
+<stop  offset="0.8375" style="stop-color:#D6E7F5;stop-opacity:0.8054"/>
+<stop  offset="0.9229" style="stop-color:#BAD9EE;stop-opacity:0.9077"/>
+<stop  offset="1" style="stop-color:#98CAE8"/>
+</radialGradient>
+<circle style="fill:url(#SVGID_1_);" cx="142.5" cy="142.5" r="142.5"/>
+</g>
+
+<g id="Layer_2">
+<g style="opacity:0.6;">
+<radialGradient id="SVGID_2_" cx="121.1225" cy="6.8361" r="25.5389" gradientTransform="matrix(0.5463 -0.445 0.2423 0.2976 -11.765 99.8077)" gradientUnits="userSpaceOnUse">
+<stop  offset="0.4835" style="stop-color:#F1F2F2;stop-opacity:0.5"/>
+<stop  offset="1" style="stop-color:#F1F2F2"/>
+</radialGradient>
+<path style="fill:url(#SVGID_2_);" d="M70.2,36.5c3.4,4.1-0.2,12.7-8,19c-7.8,6.3-16.8,8.1-20.2,4c-3.4-4.1,0.2-12.7,8-19
+C57.7,34.1,66.8,32.3,70.2,36.5z"/>
+</g>
+</g>
+
+</svg>

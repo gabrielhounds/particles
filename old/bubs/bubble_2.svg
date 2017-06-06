@@ -1,0 +1,24 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 286 286" style="enable-background:new 0 0 286 286;" xml:space="preserve">
+<g id="bg">
+<circle id="mainBubble_1_" style="fill:#FFFFFF;" cx="143" cy="143" r="143"/>
+</g>
+<g id="bubble">
+<g>
+<radialGradient id="mainBubble_2_" cx="142.521" cy="142.5222" r="142.5216" gradientTransform="matrix(1.0034 0 0 1.0034 0 0)" gradientUnits="userSpaceOnUse">
+<stop  offset="0.5824" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+<stop  offset="0.6597" style="stop-color:#F8FBFE;stop-opacity:0.5926"/>
+<stop  offset="0.7379" style="stop-color:#EBF3FB;stop-opacity:0.6862"/>
+<stop  offset="0.8166" style="stop-color:#D6E7F7;stop-opacity:0.7804"/>
+<stop  offset="0.8956" style="stop-color:#B9D9F2;stop-opacity:0.875"/>
+<stop  offset="0.9741" style="stop-color:#93C8EC;stop-opacity:0.969"/>
+<stop  offset="1" style="stop-color:#84C2EA"/>
+</radialGradient>
+<circle id="mainBubble" style="fill:url(#mainBubble_2_);" cx="143" cy="143" r="143"/>
+<radialGradient id="reflection_1_" cx="120.5537" cy="5.2796" r="25.5389" gradientTransform="matrix(0.5326 -0.4537 0.2363 0.3034 -10.4561 101.0917)" gradientUnits="userSpaceOnUse">
+<stop  offset="0.4835" style="stop-color:#F1F2F2;stop-opacity:0.5"/>
+<stop  offset="1" style="stop-color:#F1F2F2"/>
+</radialGradient>
+<path id="reflection" style="opacity:0.5;fill:url(#reflection_1_);" d="M68.8,36.3c3.3,4.2-0.2,12.9-7.8,19.4 c-7.6,6.5-16.4,8.3-19.7,4.1c-3.3-4.2,0.2-12.9,7.8-19.4C56.6,33.9,65.5,32.1,68.8,36.3z"/>
+</g>
+</g>
+</svg>

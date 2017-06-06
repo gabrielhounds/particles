@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+}
+
+#wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #02004b;
+}
+
+#blobHolder {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 50%;
+  top: 50%;
+  margin-left: -50px;
+  margin-top: -50px;
+}
+
+.blob {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background: #FFF;
+  border-radius: 50%;
+}
+
+.two #wrapper {
+  background: #00963d;
+}
+
+.two #blobHolder {
+  top: 90%;
+  left: 70%;
+}
+
+.three #wrapper {
+  background: #00163d;
+}
+
+.three #blobHolder {
+  top: 95%;
+  left: 50%;
+}
+
+.five #wrapper {
+  background: #600049;
+}
+
+.five #blobHolder {
+  top: 50%;
+  left: 10px;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  margin: 0;
+}
+
+.six #wrapper {
+  background: #030020;
+  overflow: hidden;
+}
+
+.grid .pixel {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  background: #ff00b7;
+}
+
+.grid #wrapper {
+  background: #5005ff;
+}
+
+.grid #gridHolder {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 50vw;
+  top: 50vh;
+  margin-left: -200px;
+  margin-top: -200px;
+}
+
+.smoke #wrapper {
+  background: #00163d;
+}
+
+.smoke #smokeHolder {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 50%;
+  top: 110%;
+  margin-left: -50px;
+  margin-top: -50px;
+}
+
+.smoke .smoke {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  background-image: url(../images/rising-smoke.png);
+  background-size: 100%;
+}
